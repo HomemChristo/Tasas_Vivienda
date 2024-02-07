@@ -21,7 +21,7 @@ activate Tasas_Vivienda
 
 ```sh
 git clone
-python3 -m Tasas_vivienda env
+python3 -m Tasas_Vivienda env
 source env/bin/activate
 pip3 install -r requirements.txt
 ```
